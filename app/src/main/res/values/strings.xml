@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roll The Dice</string>
+    <string name="roll_the_dice">Roll the dice !</string>
+    <string name="Dice_img_description">A random number (between 1 and 6) is display on a dice</string>
+</resources>
